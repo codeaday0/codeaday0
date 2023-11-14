@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeaday0
 - 👀 I’m interested in coding everyday!
-- 🌱 I’m currently learning to contribute to Container Technology.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me codeaday0@gmail.com
 
